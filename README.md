@@ -37,4 +37,5 @@ console.log(token1);
 ## Supported networks
 
 * BSC
+* ETHEREUM
 * SANDBOX
