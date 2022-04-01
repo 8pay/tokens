@@ -38,4 +38,5 @@ console.log(token1);
 
 * BSC
 * ETHEREUM
+* POLYGON
 * SANDBOX
